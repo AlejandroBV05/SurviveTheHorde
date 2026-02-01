@@ -1,20 +1,20 @@
 Description
 -----------
-*Survive The Horde* is a 2D top-down game developed in C++ using **sfml** and **tmxlite**.
+*Survive The Horde* is a 2D top-down game developed in C++ using **sfml** and **tmxlite**
 
-In this game you have to survive waves of goblins and reach the highest score has possible.
+In this game you have to survive waves of goblins and reach the highest score has possible
 
 Controls
 -----------
-- **W / A / S / D** -> Player movement and attack direction. 
-- **SPACE** -> Attack. (For the up and down attack you must hold W or S and then space to perform said attack)
+- **W / A / S / D** -> Player movement and attack direction
+- **SPACE** -> Attack (For the up and down attack you must hold W or S and then space to perform said attack)
 
 Technical Challenges
 -----------
 - Loading and rendering the map by layers using **tmxlite**
 - Generating enemies using generic object pooling
 - Data-driven approach to loading enemies and player data from external files
-- Efficient use of memory, clearly defining the responsibilities of each class to avoid memory leaks and keep the project stable.
+- Efficient use of memory, clearly defining the responsibilities of each class to avoid memory leaks and keep the project stable
 
 Media
 -----------
