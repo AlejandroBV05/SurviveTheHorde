@@ -1,6 +1,6 @@
 Description
 -----------
-*Survive The Horde* is a 2D top-down game developed in C++ using **sfml** and **tmxlite**
+*Survive The Horde* is a 2D top-down game developed in C++ using **sfml** for rendering and **tmxlite** for loading maps created with *Tiled*
 
 In this game you have to survive waves of goblins and reach the highest score has possible
 
