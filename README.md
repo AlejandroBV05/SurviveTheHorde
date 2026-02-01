@@ -6,8 +6,8 @@ In this game you have to survive waves of goblins and reach the highest score ha
 
 Controls
 -----------
-- **W / A / S / D** -> Player movement and attack direction.
-- **SPACE** -> Attack
+- **W / A / S / D** -> Player movement and attack direction. 
+- **SPACE** -> Attack. (For the up and down attack you must hold W or S and then space to perform said attack)
 
 Technical Challenges
 -----------
