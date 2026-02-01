@@ -14,7 +14,7 @@ Technical Challenges
 - Loading and rendering the map by layers using **tmxlite**
 - Generating enemies using generic object pooling
 - Data-driven approach to loading enemies and player data from external files
-- Efficient memory usage, preventing memory leaks and clearly defining instance ownership
+- Efficient use of memory, clearly defining the responsibilities of each class to avoid memory leaks and keep the project stable.
 
 Media
 -----------
